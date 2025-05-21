@@ -7,7 +7,7 @@ Two-player mode
 
 Clean and intuitive interface
 
-Win/draw detection
+Win detection
 
 Responsive design
 
