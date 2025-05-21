@@ -85,7 +85,7 @@ body{
 }
 
 h1{
-    
+    padding-top: 5rem; 
     font-size: 10vmin;
     margin-bottom: 2rem;
 }
